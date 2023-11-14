@@ -1,6 +1,7 @@
 # Auction with blockchain \(R\) (200 point, 2 solves, ★★☆☆☆) [First blood 🩸]
 ---
 Solved by: Kaiziron
+
 Team: O0159 - Black Bacon
 
 
